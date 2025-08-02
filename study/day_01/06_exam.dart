@@ -23,7 +23,9 @@ void main() {
   } else if (avg >= 80) {
     grade2 = "우";
     if (kor >= 80 && eng >= 80 && mat >= 80) {
-      grade2 += "(균등)";
+      //grade2 += "(균등)";
+      //grade2 = grade2+"(균등)";
+      grade2 = "우" + "(균등)";
     }
   } else if (avg >= 70) {
     grade2 = "미";
