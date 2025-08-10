@@ -1,4 +1,4 @@
-name: first_app
+name: sec_app
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -58,9 +58,9 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  assets:  ## 빈칸 2개
-    - fff/b1.jpg  ## 빈칸 4개
-    - fff/b2.jpg
+  assets:
+    - fff/b3.jpg  ## 빈칸 4개
+    - fff/b4.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
