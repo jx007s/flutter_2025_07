@@ -61,6 +61,8 @@ flutter:
   assets:  ## 빈칸 2개
     - fff/b1.jpg  ## 빈칸 4개
     - fff/b2.jpg
+    - fff/b3.jpg
+    - fff/b4.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
